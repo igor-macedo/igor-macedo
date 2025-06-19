@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @igor-macedo
-- 👀 I’m interested in  comprar carros
+- 👀 I’m interested in  
 - 🌱 I’m currently learning programação
-- 💞️ I’m looking to collaborate on nada
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me 
 
 <!---
