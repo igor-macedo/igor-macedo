@@ -2,7 +2,7 @@
 - 👀 I’m interested in  comprar carros
 - 🌱 I’m currently learning programação
 - 💞️ I’m looking to collaborate on nada
-- 📫 How to reach me  não chegue
+- 📫 How to reach me 
 
 <!---
 igor-macedo/igor-macedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
